@@ -1,7 +1,7 @@
 ---
 title: "Page One"
 date: 2019-09-02T22:13:31+01:00
-draft: true
+draft: false
 type: page
 menu: "main"
 ---
