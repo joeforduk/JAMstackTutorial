@@ -1,12 +1,14 @@
 ---
-title: "Page One"
-date: 2019-09-02T22:13:31+01:00
-draft: false
+title: Page One
+date: 2019-09-02T21:13:31.000+00:00
 type: page
-menu: "main"
----
+menu:
+  main: {}
 
-# Lorem ipsum dolor sit amet
+---
+# This heading was modified inside the CMS
+
 ## Consectetur adipiscing elit
+
 Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
 This is the post, not the homepage
