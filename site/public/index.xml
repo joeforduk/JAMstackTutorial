@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>JAMStack Website Tutorial</title>
+    <link>/</link>
+    <description>Recent content on JAMStack Website Tutorial</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 05 Sep 2019 14:41:58 +0100</lastBuildDate>
+    
+	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Post Two</title>
+      <link>/post/post-two/</link>
+      <pubDate>Thu, 05 Sep 2019 14:41:58 +0100</pubDate>
+      
+      <guid>/post/post-two/</guid>
+      <description>This is Post Two Consectetur adipiscing elit Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. This is the post, not the homepage</description>
+    </item>
+    
+    <item>
+      <title>Page Two</title>
+      <link>/page-two/</link>
+      <pubDate>Thu, 05 Sep 2019 14:41:47 +0100</pubDate>
+      
+      <guid>/page-two/</guid>
+      <description>This is Page Two Consectetur adipiscing elit Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. This is the post, not the homepage</description>
+    </item>
+    
+    <item>
+      <title>Page One</title>
+      <link>/page-one/</link>
+      <pubDate>Mon, 02 Sep 2019 22:13:31 +0100</pubDate>
+      
+      <guid>/page-one/</guid>
+      <description>Lorem ipsum dolor sit amet Consectetur adipiscing elit Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. This is the post, not the homepage</description>
+    </item>
+    
+    <item>
+      <title>tech</title>
+      <link>/tech/</link>
+      <pubDate>Wed, 14 Nov 2018 19:02:50 -0700</pubDate>
+      
+      <guid>/tech/</guid>
+      <description> Victor Hugo A Hugo boilerplate for creating truly epic websites This is a boilerplate for using Hugo as a static site generator and Webpack as your asset pipeline. Victor Hugo setup to use PostCSS and Babel for CSS and JavaScript compiling/transpiling. This project is released under the MIT license. Please make sure you understand its implications and guarantees.
+Enjoy!! 😸 </description>
+    </item>
+    
+  </channel>
+</rss>

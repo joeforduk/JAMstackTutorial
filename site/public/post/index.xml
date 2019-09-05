@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on JAMStack Website Tutorial</title>
+    <link>/post/</link>
+    <description>Recent content in Posts on JAMStack Website Tutorial</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 05 Sep 2019 14:41:58 +0100</lastBuildDate>
+    
+	<atom:link href="/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Post Two</title>
+      <link>/post/post-two/</link>
+      <pubDate>Thu, 05 Sep 2019 14:41:58 +0100</pubDate>
+      
+      <guid>/post/post-two/</guid>
+      <description>This is Post Two Consectetur adipiscing elit Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. This is the post, not the homepage</description>
+    </item>
+    
+  </channel>
+</rss>
